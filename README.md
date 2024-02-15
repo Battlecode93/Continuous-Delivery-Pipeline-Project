@@ -12,7 +12,8 @@
 <h2>Set Up Git Repo</h2>
 
 <p>1. Fork the starter repo</p>
-<p>![image](https://github.com/Battlecode93/Create-Continuous-Delivery-Pipeline/assets/112134505/3c52f4a4-26cb-4155-90e9-cafd2e60c628)</p>
+![image](https://github.com/Battlecode93/Create-Continuous-Delivery-Pipeline/assets/112134505/4f20fc22-3206-4d45-89b4-068436ecf59b) 
+
 
 <p>2. Push a change to your new repo</p>
 
