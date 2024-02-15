@@ -9,10 +9,14 @@
 
 
 
-Set Up Git Repo
+<h2>Set Up Git Repo</h2>
 
-1. Fork the starter repo
-2. Push a change to your new repo
+<p>
+   1. Fork the starter repo
+   2. Push a change to your new repo
+
+</p> 
 
 ![image](https://github.com/Battlecode93/Create-Continuous-Delivery-Pipeline/assets/112134505/3c52f4a4-26cb-4155-90e9-cafd2e60c628)
-   
+![image](https://github.com/Battlecode93/Create-Continuous-Delivery-Pipeline/assets/112134505/309b05cd-86ee-40ad-adc1-64f076fdec2e)
+  
