@@ -1,6 +1,7 @@
 <h1>Continuous Delivery Pipeline<h1/>
 
-![Alt text](Full Architecture.png)
+![Alt text](Full-Architecture.png)
+----
 
 ## Project Overview
 
