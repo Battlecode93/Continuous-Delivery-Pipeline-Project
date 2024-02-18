@@ -1,5 +1,7 @@
 <h1>Continuous Delivery Pipeline<h1/>
 
+![Alt text](Full Architecture.png)
+
 ## Project Overview
 
 This repository contains the source code and configuration files for setting up a continuous delivery pipeline for a simple web application. The pipeline automates the process of deploying the web application whenever changes are made to the source code.
