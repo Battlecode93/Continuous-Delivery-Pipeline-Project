@@ -30,7 +30,7 @@ This repository contains the source code and configuration files for setting up 
 
 ## Deploy Web App
 
-1. **Create AWS Elastic Beanstalk Environment:**
+ **Create AWS Elastic Beanstalk Environment:**
    - Go to the AWS Elastic Beanstalk console and create a new application.
    - Choose the web server environment, label the application (e.g., DevOpsGettingStarted), and select the Node.js platform.
    - Use an existing service role and the default EC2 instance profile.
@@ -38,26 +38,26 @@ This repository contains the source code and configuration files for setting up 
 
 ## Create Build Project
 
-1. **Configure AWS CodeBuild:**
+ **Configure AWS CodeBuild:**
    - Set up a build project with AWS CodeBuild.
    - Configure GitHub as the source provider for the build project.
    - Run a build using AWS CodeBuild to compile source code, run tests, and produce deployable software packages.
 
 ## Create Delivery Pipeline
 
-1. **Set Up AWS CodePipeline:**
+ **Set Up AWS CodePipeline:**
    - Create a new pipeline on AWS CodePipeline.
    - Configure your GitHub repository as the source code provider.
    - Configure the build stage by selecting the AWS CodeBuild project.
    - Deploy the application to AWS Elastic Beanstalk in the pipeline section.
 
-2. **Pipeline Execution:**
+ **Pipeline Execution:**
    - Start the pipeline execution and monitor the progress.
    - Once the Deploy stage turns green, click on the AWS Elastic Beanstalk link to access the deployed web application.
 
 ## Finalize Pipeline and Test
 
-1. **Add Manual Review Stage:**
+ **Add Manual Review Stage:**
    - Add a manual review stage between the Build and Deploy stages in AWS CodePipeline.
    - Code changes will now require manual review and approval before being deployed to AWS Elastic Beanstalk.
 
