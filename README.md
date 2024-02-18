@@ -1,4 +1,4 @@
-**Continuous Delivery Pipeline README**
+### Continuous Delivery Pipeline
 
 ## Project Overview
 
